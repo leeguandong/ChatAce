@@ -32,23 +32,6 @@ git clone https://github.com/leeguandong/ChatAce.git
 cd ChatAce
 ```
 
-### 2. 安装依赖
-```bash
-pip install -r requirements.txt
-```
-
-### 3. 配置环境
-确保您的系统安装了必要的深度学习环境:
-```bash
-# 安装 PyTorch (根据您的 CUDA 版本选择)
-pip install torch torchvision torchaudio
-```
-
-### 4. 安装其他依赖
-```bash
-pip install gradio opencv-python pillow numpy addict
-```
-
 ## 启动方式
 
 ### 快速启动
