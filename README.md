@@ -163,6 +163,4 @@ demo.launch(
 - 项目地址: [https://github.com/leeguandong/ChatAce](https://github.com/leeguandong/ChatAce)
 - 问题反馈: [Issues](https://github.com/leeguandong/ChatAce/issues)
 
----
 
-**注意**: 本项目需要一定的计算资源，推荐在具有 GPU 的环境中运行以获得最佳性能。
