@@ -32,6 +32,11 @@ git clone https://github.com/leeguandong/ChatAce.git
 cd ChatAce
 ```
 
+### 2. 解压ComfyUI
+```bash
+unzip ComfyUI.zip
+```
+
 ## 启动方式
 
 ### 快速启动
